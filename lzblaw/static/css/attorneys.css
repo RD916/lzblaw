@@ -39,7 +39,7 @@ li a:hover:not(.active) {
 .sidebar {
     background:linear-gradient(rgba(144,56,51),rgb(107,46,44));
     color:white;
-    height: 300px;
+    height: 350px;
 }
 
 hr.new1 {
@@ -52,6 +52,8 @@ hr.new1 {
     line-height: 0.5;
     font-size: 12px;
     font: white;
+    margin-top: 5mm;
+    line-height: 2mm;
 }
 
 .subtext2 {
@@ -93,3 +95,4 @@ hr.new1 {
 .subtext {
     font: white;
 }
+
