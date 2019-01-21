@@ -23,7 +23,7 @@ ul{
 }
 
 .sidebar-container {
-    background-image: url('../../images/nav_side_sub.jpg');
+    background-image: url('./images/nav_side_sub.jpg');
     padding: 20px;
     color: white
     
